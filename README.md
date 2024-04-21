@@ -107,3 +107,8 @@ If you have any question, feel free to reach out the contact persons and direct 
 
 ## License and Acknowledgement
 This code repository is release under [MIT License](LICENSE). 
+
+## Citation
+Bin Ren, Yawei Li, Nancy Mehta,et al.The ninth NTIRE 2024 efficient super-resolution challenge report,arXiv preprint arXiv:2404.10343
+
+
